@@ -179,7 +179,10 @@ fieldset[disabled] .btn-xl.active {
     color: #73C482;
 }
 
-.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:hover {
+    color: #73C482;
+}
+
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
