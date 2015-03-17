@@ -348,6 +348,11 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+    color: #777;
+}
+
+.service-heading .a {
+    color: #777;
 }
 
 #purchase .portfolio-item {
